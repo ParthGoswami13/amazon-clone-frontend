@@ -5,7 +5,7 @@ It replicates the look and feel of the Amazon homepage with a focus on **UI/UX d
 
 ---
 
-## 🚀 Features
+## Features
 - Responsive navigation bar with logo, search bar, and cart
 - Sign-in dropdown with account and list options
 - Product showcase sections with categories and deals
@@ -15,13 +15,12 @@ It replicates the look and feel of the Amazon homepage with a focus on **UI/UX d
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **HTML5**
 - **CSS3**
 - **Font Awesome (icons)**
 
 ---
 
-## 📷 Preview
+## Preview
 ![Amazon Clone Screenshot](screenshot.png)  
-*(You can take a screenshot of your page and save it as `screenshot.png` in the repo.)*
